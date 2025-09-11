@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://machiapply.github.io/task-management-frontend/static/css/main.985582f7.css",
+    "main.js": "https://machiapply.github.io/task-management-frontend/static/js/main.c5aef5c2.js",
+    "index.html": "https://machiapply.github.io/task-management-frontend/index.html",
+    "main.985582f7.css.map": "https://machiapply.github.io/task-management-frontend/static/css/main.985582f7.css.map",
+    "main.c5aef5c2.js.map": "https://machiapply.github.io/task-management-frontend/static/js/main.c5aef5c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.985582f7.css",
+    "static/js/main.c5aef5c2.js"
+  ]
+}
