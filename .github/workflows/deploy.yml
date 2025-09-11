@@ -15,9 +15,6 @@ jobs:
             node-version: '24'
             cache: 'yarn'
 
-      - name: Yarn Cache
-        uses: c-hive/gha-yarn-cache@v1
-
       - name: Install dependencies
         run: yarn
 
